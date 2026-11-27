@@ -1,0 +1,15 @@
+{
+  "version": "1",
+  "last_run": "2026-11-27T10:15:24-05:00",
+  "last_result": "error",
+  "last_error": "Service invoked too many times for one day: gmail.",
+  "last_error_time": "2026-11-27T10:15:24-05:00",
+  "last_publish_time": "",
+  "published": "",
+  "message_id": "",
+  "subject": "",
+  "message_date": "",
+  "from_date": "",
+  "label": "AI Folders/SCSM Reports/Daily Attendance",
+  "schedule": "every 5 minutes; reset 2 AM; quiet 23:00-8:00 ET"
+}
